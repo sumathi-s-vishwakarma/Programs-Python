@@ -1,0 +1,4 @@
+name = "sumathi"
+cgpa = 7.64
+
+print("I am " + name + " pursuing my BE final year in the stream of computer science with " + str(cgpa) + " CGPA.")
